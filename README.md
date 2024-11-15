@@ -6,7 +6,7 @@
 
 <div style="display: inline_block">
  <h3>Rank in Code Wars!</h3>
- <img align="center" alt="Thiago-Node" height="100" width="420" src='https://www.codewars.com/users/DevGuijas/badges/large'>
+ <img align="center" alt="DevGuijas-Node" height="100" width="420" src='https://www.codewars.com/users/DevGuijas/badges/large'>
 </div>
 
  <div> 
